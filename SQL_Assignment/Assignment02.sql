@@ -1,3 +1,5 @@
+-- Active: 1774054763032@@127.0.0.1@3306
+show DATABASEs;
 USE employee;
 show tables;
 INSERT INTO departments (department_id, department_name) VALUES
